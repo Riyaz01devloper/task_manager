@@ -42,7 +42,7 @@ A full-stack Task Manager application built using React.js, Node.js, Express.js,
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+https://github.com/Riyaz01devloper/task_manager.git
 cd task-manager
 ```
 
