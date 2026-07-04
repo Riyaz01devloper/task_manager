@@ -4,6 +4,7 @@
     "dev": "nodemon src/server.js"
   },
   "dependencies": {
+    "cors": "^2.8.6",
     "swagger-jsdoc": "^6.3.0",
     "swagger-ui-express": "^5.0.1"
   }
